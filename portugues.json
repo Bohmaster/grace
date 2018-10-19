@@ -1,0 +1,326 @@
+{
+        "home": {
+            "header": {
+                "menu": [
+                    "INÍCIO",
+                    "QUEM SOMOS",
+                    {
+                        "SERVICIOS": [
+                            "SERVIZÇOS",
+                            "AUDIOVISUAIS",
+                            "Outros"
+                        ]
+                    },
+                    "FALE CONOSCO"
+                ],
+                "slider": {
+                    "slider1": {
+                        "titulo": "Audiovisuais",
+                        "subt": "Legendagem",
+                        "rubros": [
+                            "Filmes",
+                            "Novelas",
+                            "Anúncios publicitários",
+                            "Documentários",
+                            "Curta-metragem",
+                            "Vídeos institucionais",
+                            "Vídeos corporativos",
+                            "Cursos online"
+                        ]
+                    },
+                    "slider2": {
+                        "titulo": "Audiovisuais",
+                        "subt": "Tradução & Transcrição",
+                        "rubros": [
+                            "Tradução de roteiros",
+                            "Localização e adaptação de roteiros",
+                            "Transcrição de áudio a texto",
+                            "Conversão de texto a áudio",
+                            "Legendas fechadas ao vivo e diferido",
+                            "Tradução de marcas",
+                            "Foley"
+                        ]
+                    },
+                    "slider3": {
+                        "titulo": "Audiovisuais",
+                        "subt": "Educação",
+                        "rubros": [
+                            "Cursos online",
+                            "Capacitação de software de legendagem online",
+                            "Legendagem de vídeos educativos"
+                        ]
+                    },
+                    "slider4": {
+                        "titulo": "Audiovisuais",
+                        "subt": "Acessibilidade",
+                        "rubros": [
+                            "Legendagem ao vivo",
+                            "Legendagem para surdos",
+                            "Adaptação de roteiros"
+                        ]
+                    },
+                    "slider5": {
+                        "titulo": "Audiovisuais",
+                        "subt": "Agronegócios",
+                        "rubros": [
+                            "Interpretação em feiras e rodadas de negócios",
+                            "Tradução de documentação",
+                            "Legendagem e dublagem de vídeos corporativos"
+                        ]
+                    },
+                    "otrosServicios": {
+                        "titulo": "OUTROS",
+                        "subt": "NOSSA FILOSOFIA É APRENDER E CAPACITAR PARA CRESCER JUNTO COM O CLIENTE",
+                        "servicios": [
+                            {
+                                "titulo": "Tradução especializada",
+                                "rubros": [
+
+                                            "Legal",
+                                            "Economia e finanças",
+                                            "Política internacional",
+                                            "Indústria",
+                                            "Agronegócios",
+                                            "Mecânica e Maquinarias",
+                                            "Energias sustentáveis"
+                                        ]
+
+
+                            },
+                            {
+                                "titulo": "Auditoria linguística",
+                                "rubros": [
+
+                                            "Empresas",
+                                            "Instituições",
+                                            "Organizações"
+                                        ]
+
+                            },
+                            {
+                                "titulo": "Interpretação",
+                                "rubros": [
+
+                                            "Ronda de negócios",
+                                            "Feiras e exposições comerciais",
+                                            "Conferências",
+                                            "Cursos"
+                                        ]
+
+                            }
+                        ]
+                    }
+                }
+            },
+            "SobreNosotros": {
+                "titulo": "QUEM SOMOS",
+                "subTitulo": "SOMOS AUDIO-VISUAIS. OS NOSSOS SERVIÇOS DE TRADUÇÃO, LEGENDAGEM E INTERPRETAÇÃO SERÃO A SUA CONEXÃO INTERNACIONAL.",
+                "parrafo": "A nossa empresa nasceu em 1997 com um objetivo linguístico: conectar-nos com o cliente audiovisual atravºés de nossos serviços de tradução, legendagem, legendagem oculta e transcrição.",
+                "parrafo2": "A nossa filosofia é aprender e capacitar para crescer junto com o cliente. Oferecemos capacitação <i>in-house</i> e cursos online em espanhol neutro, LATAM e tradução audiovisual."
+            },
+            "integrantes": [
+                {
+                    "nombre": "DIEGO MAININI",
+                    "cargo": "DIRETOR DA ÁREA TÉCNICA AUDIOVISUAL",
+                    "trayectoria": "Encarregado da área logística e de gestão de projetos audiovisuais e supervisão de produção e controle de qualidade.</br>Desde 2000 trabalha como editor de legendas e legendas fechadas para surdos. Nos últimos anos tem capacitado tradutores novatos em legendagem e estudantes da carreira de tradução.</br>Seus trabalhos podem ser vistos em redes internacionais como Netflix, Fox, HBO, e Universal.</br>"
+                },
+                {
+                    "nombre": "DANIELE MARTINS MONGE",
+                    "cargo": "TRADUÇÃO AUDIOVISUAL EM PORTUGUÊS",
+                    "trayectoria": "Mestre em Integração e Cooperação Internacional pela Universidad Nacional de Rosario - Argentina, graças a uma bolsa de estudos da Organização de Estados Americanos - OEA e Graduada em Produção Cultural pela Universidade Federal Fluminense, em Niterói.</br>Tem se desenvolvido profissionalmente realizando projetos culturais no Brasil e na Argentina.</br>Atualmente se desempenha como professora de português online e fazendo transcrições e tradução audiovisual nos idiomas inglês, espanhol e português.</br>"
+                },
+                {
+                    "nombre": "MARINA PIERETTI LÓPEZ",
+                    "cargo": "PROMOÇÃO REGIONAL",
+                    "trayectoria": "Marina Pieretti López é professora de inglês e tradutora de inglês formada no ISP Nº 3 “Eduardo Lafferriere”, Villa Constitución, Santa Fe, Argentina. Também é programadora em sistemas formada no ISP Nº 9112 “San Pablo”.</br>Marina trabalhou como professora em institutos de inglês de sua cidade e já capacitou alunos da graduação em tradução do ISP Nº 3 “Eduardo Lafferriere” por mais de oito anos. Tem realizado serviços de transcrição em inglês e espanhol de arquivos de áudio a texto. Já participou de diversos seminários, cursos e oficinas, presenciais e online, relacionados com a área da tradução e dos idiomas inglês e espanhol, atualmente se encontra tomando aulas de português.</br>É tradutora independente especializada em Inglês técnico, mecânica, metalúrgica e Recursos Humanos. Em abril de 2010, depois de participar na sua primeira oficina da Connections Servicios Idiomáticos, uniu-se à equipe como Promotora Regional dos eventos organizados pela Connections, pois realmente acredita que o desenvolvimento profissional enriquece tanto a vida profissional como a pessoal de todos.</br>Desde este ano coordena a capacitação em empresas da região e o staff de professores de inglês e português em programas de agronegócios.</br>"
+                },
+                {
+                    "nombre": "DIEGO GALLO",
+                    "cargo": "DEPARTAMENTO DE AUDIOVISUAL</br>GERENTE DE PROJETOS",
+                    "trayectoria": "Tradutor formado em 2008, começou sua experiência audiovisual com a Connections no ano seguinte. Tem se desenvolvido com legendagem para empresas europeias e norte-americanas, proporcionando inumerável quantidade de produtos para redes de televisão e plataformas de internet.</br>Há quatro anos agregou às suas tarefas de legendagem as de dublagem e Closed Captioning, além de controle de qualidade para esses produtos.</br>Se desempenha como Gerente de Projetos para Connections na área de finanças e economia.</br>Está em constante capacitação em ferramentas de tradução audiovisual e tradução geral, assim como também no que respeita à língua inglesa e espanhola.</br>Desfruta do cinema, do esporte e de seus pets.</br>"
+                },
+                {
+                    "nombre": "LÚCIA DORNELAS",
+                    "cargo": "PORTUGUÉS",
+                    "trayectoria": "Nasceu no Brasil e morou ali até 1983. No ano seguinte se radicou na cidade de Rosario. Professora de educação infantil, Licenciada em Matemática, Licenciada em Pedagogia e professora de português são alguns de seus títulos acadêmicos.</br>Também possui conhecimentos em inglês e Língua de Sinais.</br>"
+                },
+                {
+                    "nombre": "GRACIELA CUELLO",
+                    "cargo": "DIREÇÃO GERAL",
+                    "trayectoria": "Intérprete, tradutora em inglês e professora de inglês, títulos obtidos no Instituto Olga Cossettini, Rosario. Um trabalho intenso na área audiovisual a levou em 1996 a criar sua própria empresa de traduções. Em 2004 é convocada para trabalhar com tradução audiovisual para legendagem. Começa um relacionamento profissional com a empresa de legendagem MainPost, com escritórios em Miami nesse momento, e como resultado dessa sólida relação profissional e humana ambas empresas criam uma parceria estratégica que continua até hoje.</br>Atualmente está dedicada ao desenvolvimento de produtos audiovisuais da Argentina para o mundo para cadeias televisivas e cinema. Dirige os times de controle de qualidade em dublagem e legendagem. Realiza capacitações em espanhol neutro para empresas de Closed Captioning e na tradução acessível para estudantes de tradução.</br>Adora as viagens, a leitura e o cinema.</br>"
+                }
+            ],
+            "relacInter": {
+                "titulo": "ÁREA DE RELAÇÕES INTERNACIONAIS",
+                "subtitulo": "Na Connections também contamos com um departamento especializado para o relacionamento com clientes internacionais.",
+                "parrafo": "A nossa empresa está posicionada no mercado interno devido à crescente demanda de exportação de serviços de tradução nos últimos anos. Atualmente participamos em projetos internacionais especialmente com clientes dos Estados Unidos, França e América Latina. Uma área específica para as relações internacionais gerencia eficientemente as demandas geradas pelo crescimento da empresa, como também as necessidades dos nossos clientes do exterior.",
+                "parrafo2": "Entre as atividades da área estão: identificar potenciais mercados, captar novos clientes, divulgar os nossos serviços, relacionamento com os clientes e atenção personalizada, além do seguimento de projetos internacionais, entre outras ações. Participamos em duas feiras internacionais no ano como MIPCOM Cannes, Languages & the Media, Berlim, L.A. Screenings e a Feira do Livro de Frankfurt."
+            },
+            "footer": {
+                "menu": [
+                    "INÍCIO",
+                    "QUEM SOMOS",
+                    {
+                        "SERVICIOS": [
+                            "SERVIÇOS",
+                            "AUDIOVISUAIS",
+                            "OUTROS"
+                        ]
+                    },
+                    "FALE CONOSCO"
+                ],
+
+                "rubros":[
+                    "Audiovisuais",
+                    "Tradução especializada",
+                    "Auditoria linguística",
+                    "Interpretação"
+
+                ],
+                "copyright": "Direitos Reservados",
+                "telefono": "+54-341-4497115"
+            }
+        },
+
+
+
+        "nosotros": {
+            "titulo": "Quem Somos",
+            "subTitulo": "A nossa empresa nasceu em 1997 com um objetivo linguístico: conectar-nos com o cliente audiovisual através de nossos serviços de tradução, legendagem, legendagem oculta e transcrição.</br>A nossa filosofia é aprender e capacitar para crescer junto com o cliente. Oferecemos capacitação in-house e cursos online em espanhol neutro, LATAM e tradução audiovisual.",
+            "parrafo1": "<b><i>Nos envolvemos.</i></b></br></br>Participamos na etapa de produção com cineastas na preparação de legendas acessíveis.</br></br><b><i>Somos criativos.</i></b></br></br>As agências de publicidade que nos confiam seus produtos o sabem.</br>Traduzimos marcas registradas e campanhas publicitárias, e localizamos seus produtos para que saiam ao mundo. Os nossos serviços podem ser vistos em diferentes âmbitos e para diversos fins, desde orquestras sinfônicas, feiras comerciais a cursos educativos.</br>",
+            "parrafo2": "<b><i>Assumimos o desafio.</i></b></br></br>Com equipes sólidas e uma paixão comum e a melhor tecnologia, estamos focados na qualidade das nossas legendas em temporadas televisivas e series, e em uma parceria profunda com realizadores cinematográficos em produção e post produção audiovisual.</br></br><b><i>Somos audio-visuais.</i></b></br></br>Os nossos serviços de tradução, legendagem e interpretação serão a sua conexão internacional.</br>"
+        },
+        "servicios": {
+            "audiovisuales": {
+                "titulo": "Audiovisuais",
+                "secciones": [
+                    {
+                        "subtitulo": "Legendagem e Closed Captioning",
+                        "rubros":[
+                            "Filmes",
+                            "Novelas",
+                            "Anúncios publicitários",
+                            "Documentários",
+                            "Curta-metragem",
+                            "Vídeos institucionais",
+                            "Vídeos corporativos",
+                            "Cursos online"
+                        ],
+                        "parrafo": "A legendagem é um processo minucioso que compreende:</br></br>A análise do material e a preparação para a inserção de legendas.</br>· A tradução do texto sobre o roteiro e a imagem.</br>· A utilização de opções linguísticas acessíveis para os espectadores de todas as regiões onde se projetará o filme.</br>· A edição das legendas de maneira que sejam linguisticamente corretas e respeitem as restrições de espaço e tempo que impõe a projeção na tela.</br>· Uma exaustiva revisão final da sincronização da legenda e da imagem.</br>Em SPS, são necessárias a análise e a adaptação dos conteúdos audiovisuais a fim de torná-los acessíveis em salas de cinema, festivais, televisão pública e privada, DVD, e para pessoas com dificuldades de audição e capacidades diferentes.</br></br>A técnica de SPS envolve também descrições de efeitos de som, o tom da voz ou a maneira de falar.</br></br>"
+                    },
+                    {
+                        "subtitulo": "Tradução e transcrição",
+                        "rubros":[
+                            "Tradução de roteiros",
+                            "Localização e adaptação de roteiros",
+                            "Transcrição de áudio a texto",
+                            "Conversão de texto a áudio",
+                            "Legendas fechadas ao vivo e diferido",
+                            "Tradução de marcas",
+                            "Foley"
+                        ],
+                        "parrafo": "Traduzimos roteiros de cinema e para dublagem com ajustes de sincronia labial e temporal, sinopses, trailers e material audiovisual diverso, como programas de funções teatrais ou turnês artísticas, e material publicitário.</br></br>Também legendamos diretamente de áudio a texto. A qualidade de nossas transcrições pode ser vista em novelas, filmes e documentais das empresas Televisa, Caracol, Universal e NBC, entre outros, nos idiomas espanhol, português e inglês.</br></br>Outros serviços incluem a conversão em texto escrito de qualquer tipo de documento de áudio ou vídeo, como discursos, conferências, debates, entrevistas e sessões de capacitação.</br>"
+                    },
+                    {
+                        "subtitulo": "Educação",
+                        "rubros":[
+                            "Cursos online",
+                            "Capacitação de software de legendagem online",
+                            "Legendagem de vídeos educativos"
+                        ],
+                        "parrafo": "Traduzimos e legendamos cursos online de numerosas instituições educativas. Somos um vínculo para que pessoas com problemas auditivos possam participar de conferências e cursos universitários através de software de transcrição linguística de última geração.</br></br>Oferecemos capacitação em software de legendagem na modalidade presencial e a distância a tradutores.</br></br>Contamos com uma plataforma virtual para a capacitação em inglês das mais renomadas empresas do país.</br>"
+                    },
+                    {
+                        "subtitulo": "Acessibilidade",
+                        "rubros":[
+                            "Legendagem ao vivo",
+                            "Legendagem para surdos",
+                            "Adaptação de roteiros"
+
+                        ],
+                        "parrafo": "Realizamos legendas para surdos (SPS) para cinema e televisão.</br></br>Acreditamos firmemente que a <b>Acessibilidade Universal</b> e <b>Design para Todos</b> são sinônimo de igualdade de oportunidades.</br></br>Na etapa de pré-produção realizamos a adaptação de roteiros para pessoas com problemas auditivos, durante a realização de um filme, através da colaboração entre os diretores e os tradutores, e na etapa de pós-produção atendendo questões como o tamanho, a legibilidade e a cor da tipografia.</br>"
+                    },
+                    {
+                        "subtitulo": "Agronegócios",
+                        "rubros":[
+                            "Interpretação em feiras e rodadas de negócios",
+                            "Tradução de documentação",
+                            "Legendagem e dublagem de vídeos corporativos"
+                        ],
+                        "parrafo": "Estamos presentes em diversas áreas de agronegócios através de nossos serviços de interpretação na modalidade consecutiva e simultânea, e de legendagem e dublagem de vídeos corporativos e institucionais.</br></br>Nós somos audiovisuais. Conosco você poderá dar visibilidade a seu negócio ao redor de todo o mundo.</br>"
+                    }
+                ]
+
+
+            },
+
+            "otros": {
+                "titulo": "Outros",
+                "secciones": [
+                    {
+                        "subtitulo": "Tradução especializada",
+                        "rubros":[
+                            "Legal",
+                            "Economia e finanças",
+                            "Política internacional",
+                            "Indústria",
+                            "Agronegócios",
+                            "Mecânica e Maquinarias",
+                            "Energias sustentáveis"
+
+                        ],
+                        "parrafo": "<b>Tradução jurídica</b></br></br>Oferecemos serviços de tradução de contratos e documentos para numerosas empresas da lista Fortune 500. Contamos com uma equipe de advogados e financistas na equipe de tradução que nos assessoram em questões de litígio internacional.</br></br>FOUNDCHILD - Fundación Niños Unidos para el Mundo</br>Tradução de documentação em casos de restituição internacional de menores</br></br>Margariti, Riol y Asociados</br>MM&G abogados</br>CPM Argentina</br>Traduções jurídicas de documentação, fusões e aquisições de empresas</br></br>VEX ARGENTINA</br>Louis Dreyfus Company</br>Discidium Technologies</br>Tradução de documentação legal e financeira</br></br><b>Economia e finanças</b></br></br>Contamos com ótimas ferramentas de tradução e glossários para oferecer um produto final preciso e confiável. Realizamos tradução de relatórios contábeis para numerosas empresas internacionais.</br></br>Standard & Poor’s</br>Industrias Juan F. Secco S.A.</br>Tradução de memória e balanço das principais companhias do país</br></br>Aguas Provinciales de Santa Fe, Argentina</br>Tradução de relatório anual para o Banco Mundial e IFC (International Finance Corporation).</br></br>Hillsborough County, Florida, EE. UU.</br>Procedimentos eleitorais no estado da Florida. Revisão e edição de informação eleitoral para os votantes, e tudo o correspondente a partidos políticos e candidatos para as eleições presidenciais.</br></br><b>Indústria</b></br></br>Tradução de documentos e manuais nas seguintes áreas:</br></br>-Agricultura</br>-Agronegócios</br>-Mecânica</br>-Processos de soja</br>-Maquinarias</br>-Energias sustentáveis</br></br>Crown Iron Works Company, MN, EE. UU.</br>Curran International, TX, EE. UU.</br>Sudamérica Impresos</br>Válvulas Hoffman</br>Tradução de manuais técnicos</br></br>Sisgra S.R.L.</br>Tradução de sites e produtos de agronegócios</br></br>Abelardo Cuffia S.A.</br>Tradução de monitores de semeadura</br></br>Industrias D’Ascanio S.R.L.</br>Tradução de material para feiras e exposições</br></br>Wiseros</br>Tradução para “Taller Ecologista” sobre energias sustentáveis</br>"
+                    },
+                    {
+                        "subtitulo": "Serviço de auditoria",
+                        "rubros":[
+                            "Empresas",
+                            "Instituições",
+                            "Organizações"
+
+                        ],
+                        "parrafo": "A auditoria linguística é um serviço imprescindível tanto como ferramenta de avaliação frente a um processo de seleção, como ferramenta de avaliação para desenvolver um plano de capacitação em uma língua estrangeira.</br></br>A auditoria realiza-se em cada uma das competências (capacidade de falar, ler, escutar e escrever) do idioma objeto de avaliação.</br></br>Avaliam-se os conhecimentos do participante, as destrezas linguísticas necessárias para o desenvolvimento do cargo, e a capacidade da pessoa para enfrentar situações de comunicação.</br></br><b>Benefícios</b></br></br>A instrumentação se baseia em parâmetros simples, claros e fáceis de serem medidos.</br></br>Realizam-se relatórios com os parâmetros estabelecidos com a companhia solicitante.</br></br>Ajudamos a detectar as debilidades e as fortalezas do participante como parte do processo de seleção e avaliação.</br></br><b>Nosso processo de trabalho</b></br></br>1-Parâmetros de avaliação simples, claros e precisos que permitam conhecer a operabilidade profissional do participante mediante:</br></br>O nível de competência linguística do participante;</br>O estilo de aprendizagem e inteligências múltiplas que o participante manifesta;</br>A descrição dos objetivos;</br>Os conteúdos gramaticais.</br></br>2-Controle de assistência. Comunicação constante entre a companhia, o aluno e nós.</br></br>3-O participante é uma figura ativa no aprendizado.</br></br>O programa adapta-se ao ritmo de aprendizado do aluno, não ao contrário.</br></br>O horário e a frequência de aulas que o aluno precisa, se fixam em função da necessidade da empresa e da possibilidade real do participante.</br></br>4-Pesquisas de satisfação. Permitem detectar se o programa se cumpre com sucesso.</br></br>5-Ajustes</br>Realizam-se permanentes registros e análises do material utilizado. Isto é o que permite realizar os ajustes necessários nos conteúdos e na avaliação.</br></br><b>Capacitação em empresas de inglês e português</b></br></br>Oferecemos cursos de inglês específico e geral, com opção a prestar exames internacionais.</br></br>Nossos professores contam com sólida formação acadêmica e experiência em plataformas educativas e capacitação presencial.</br></br>Após muitos anos e respaldados por sólidos conhecimentos na procura profissional e a área de Recursos Humanos, realizamos auditoria linguística e capacitação nas principais empresas do país.</br>",
+                        "empresas":[
+                            "Pecom Agra, Argentina",
+                            "Fric Rot S.A.I.C. Walker",
+                            "Coca-Cola - Rosario (servicio tercerizado de SET Idiomas)",
+                            "LDC Argentina",
+                            "Semillas Santa Rosa",
+                            "Net Consult S.R.L.",
+                            "Juvenal Maderas"
+
+                        ]
+                    },
+                    {
+                        "subtitulo": "Interpretação",
+                        "rubros":[
+                            "Ronda de negócios",
+                            "Feiras e exposições comerciais",
+                            "Conferências",
+                            "Cursos"
+
+                        ],
+                        "parrafo": "<b>Modalidades</b></br></br>Oferecemos serviços de interpretação na modalidade consecutiva e simultânea em âmbitos sociais, comerciais e acadêmicos.</br></br>Na interpretação consecutiva, o intérprete toma notas enquanto o orador pronuncia um discurso. Durante o discurso, o orador pode fazer pausas frequentes para que o intérprete possa reproduzi-lo no idioma destino.</br></br>Na interpretação simultânea, o intérprete traduz oralmente (interpreta) imediatamente o discurso do orador, usualmente em cabines, ou bem mediante sussurro.</br></br><b>Experiência</b></br></br>Nossos intérpretes contam com certificações internacionais e experiência em eventos de protocolo e cerimonial. Contamos com uma equipe local e também com profissionais dispostos a prestar serviços no exterior.</br></br>-Ronda de negócios</br></br>-Feiras e exposições comerciais</br></br>-Conferências</br></br>-Cursos</br></br>-Visitas a plantas</br></br>-Turismo</br></br>-Casamentos</br></br>Koobet</br>Visitas a planta e rondas de negócios com a Sra. Peggy Kerr, Departamento de Desenvolvimento Econômico do estado de Iowa, E.U.A.</br></br>Crown Iron Works Company</br>Frimetal</br>Molinos Río de la Plata</br>Serviços de interpretação para os engenheiros de projeto em plantas industriais da Argentina.</br></br>Forum da UNESCO Conferência em Rosario por conta de Christer Lidzélius; Diretor de KaosPilot International. Modalidade: Interpretação consecutiva.</br></br>FULBRIGHT Institute Seminário Internacional por conta do historiador Randall Bennett Woods, Ph.D. “Estados Unidos no Mundo Atual”. Modalidade: Interpretação simultânea em cabine.</br></br>FEDERACIÓN AGRARIA ARGENTINA Conferência por conta de representantes dos Grupos Aveve e Boerenbond. Modalidade: consecutiva.</br></br>Superbilliards Expo, Filadelfia, EE. UU. Modalidade: ronda de negócios.</br></br>Apresentação do livro best-seller de Wilbur Smith, The Quest.</br></br>Ronda de negócios e visitas a AAPRESID, Bolsa de Comercio de Rosario, ACSOJA.</br></br>Ronda de negócios. Sr. B. V. Mehta, Diretor Executivo de The Solvent Extractors’ Association of India.</br></br>Seminários sobre Finanças e Hipotecas dados pelo Sr. Sidney Rosenberg, Professor da Universidade de Florida, Universidad Austral. Modalidade: simultânea.</br></br>Seminário sobre Economia global e cultura por conta da Dra. Gordana Pesakovic, Universidad Austral, Modalidade: simultânea.</br></br>Inauguração da planta de biodiesel em San Lorenzo. Modalidade simultânea.</br></br>Interpretação na planta de painéis de fibra de madeira, Villa Guillermina. Modalidade: consecutiva.</br></br>Conferência sobre o Manifesto Comunista, por conta do Professor Werner Bonefeld, Unnoba, Pergamino. Modalidade: Consecutiva.</br></br>Seminário sobre Farm Bill, por conta do Professor Allan Gray, Universidad Austral. Modalidade: simultânea.</br></br>Primeiro e Segundo Congresso Internacional de Optometría. Modalidade: simultânea, consecutiva e mesas de trabalho.</br></br>Conferência “SymbioCity y Transporte Urbano Sostenible”, por conta do Dr. Hans G. Lundberg, organizada pela Embaixada da Suécia e a Facultad de Ciencias Exactas, Ingeniería y Agrimensura. Modalidade: consecutiva, 3 horas relógio.</br></br>Immaculée Iligabiza, intérpretes Francesca Calvo Di Marco e María Célica Tripicchio. Apresentação de seu livro “Sobrevivir para contarlo” e “Guiada por la fe”, editorial Logos.</br></br>David Brazier – counseling</br></br>Conferência Internacional sobre Metabolômica por conta da Dra. Elaine Holmes. Interpretação simultânea, hotel Rostower.</br></br>Juvenal Maderas"
+                    }
+
+                ]
+
+
+            },
+            "contacto": {
+                "titulo": "Informação de contato",
+                "subtitulo": "Contate conosco",
+                "subtitulo2": "Por favor complete o seguinte formulário:",
+                "mailNombre": "Nome",
+                "mailDireccion": "Correio eletrônico",
+                "telefono": "Telefone",
+                "mailMsje": "Comentários/Consulta",
+                "botonEnviar": "Enviar"
+
+            }
+
+
+
+        }
+
+    }

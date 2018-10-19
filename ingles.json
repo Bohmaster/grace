@@ -1,0 +1,326 @@
+{
+        "home": {
+            "header": {
+                "menu": [
+                    "HOME",
+                    "ABOUT US",
+                    {
+                        "SERVICIOS": [
+                            "SERVICES",
+                            "AUDIOVISUAL",
+                            "OTHER SERVICES"
+                        ]
+                    },
+                    "CONTACT US"
+                ],
+                "slider": {
+                    "slider1": {
+                        "titulo": "Audio-visual",
+                        "subt": "Subtitling",
+                        "rubros": [
+                            "Feature films",
+                            "Soap operas",
+                            "Spots",
+                            "Documentaries",
+                            "Short films"
+                        ]
+                    },
+                    "slider2": {
+                        "titulo": "Audio-visual",
+                        "subt": "Translation & Transcription",
+                        "rubros": [
+                            "Script translation",
+                            "Script adaptation and localization",
+                            "Speech-to-text transcription",
+                            "Text-to-speech conversion",
+                            "Live and offline closed captioning",
+                            "Translation for global branding",
+                            "Foley"
+                        ]
+                    },
+                    "slider3": {
+                        "titulo": "Audio-visual",
+                        "subt": "Education",
+                        "rubros": [
+                            "Online courses",
+                            "Online training on subtitling software",
+                            "Captioned educational videos"
+                        ]
+                    },
+                    "slider4": {
+                        "titulo": "Audio-visual",
+                        "subt": "Media Accesibility",
+                        "rubros": [
+                            "Live captioning",
+                            "Subtitles for the Deaf-and-Hard-of-Hearing",
+                            "Script adaptation"
+                        ]
+                    },
+                    "slider5": {
+                        "titulo": "Audio-visual",
+                        "subt": "Agribusiness",
+                        "rubros": [
+                            "Interpreting in agricultural fairs",
+                            "Translation of documentation",
+                            "Subtitling and dubbing of corporate videos"
+                        ]
+                    },
+                    "otrosServicios": {
+                        "titulo": "OTHER SERVICES",
+                        "subt": "WE CONNECT AND LIAISE WITH THE AUDIOVISUAL CLIENT",
+                        "servicios": [
+                            {
+                                "titulo": "Specialized Translation",
+                                "rubros": [
+                                    
+                                            "Legal",
+                                            "Economics & Finance",
+                                            "International Politics",
+                                            "Industry",
+                                            "Agribusiness",
+                                            "Mechanics & Machinery",
+                                            "Sustainable energies"
+                                        
+                                    
+                                ]
+                            },
+                            {
+                                "titulo": "Language Audit",
+                                "rubros": [
+                                    
+                                            "Companies",
+                                            "Institutions",
+                                            "Organizations"
+                                        
+                                ]
+                            },
+                            {
+                                "titulo": "Interpreting",
+                                "rubros": [
+                                    
+                                            "Business networking meetings",
+                                            "Trade Shows & Exhibits",
+                                            "Conferences",
+                                            "Courses"
+                                        
+                                    
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "SobreNosotros": {
+                "titulo": "ABOUT US",
+                "subTitulo": "WE ARE AUDIO-VISUAL. WE SUBTITLE, TRANSLATE, CAPTION AND INTERPRET TO HELP YOU GO GLOBAL.",
+                "parrafo": "Born in 1997, our studio came to life with a purpose: to connect and liaise with the audiovisual client.</br>We provide subtitling and closed captioning, video description, transcription and live captioning among other post-production and media language services.</br>",
+                "parrafo2": "We provide subtitling and closed captioning, video description, transcription and live captioning among other post-production and media language services.</br>"
+            },
+            "integrantes": [
+                {
+                    "nombre": "DIEGO MAININI",
+                    "cargo": "DIRECTOR – TECHNICAL AREA",
+                    "trayectoria": "He is in charge of the logistics, project management, production and QA supervision of audiovisual products.</br>Since 2000 he has been working as an editor for regular subtitling and subtitling for the hearing-impairedSDH. In the last several years he has been training new translatorsstudents and graduates in subtitling tasksools."
+                },
+                {
+                    "nombre": "DANIELE MARTINS MONGE",
+                    "cargo": "PORTUGUESE",
+                    "trayectoria": "Master in International Integration and Cooperation, National University of Rosario, Argentina, a scholarship granted by the OAS – Organization of American States, and Bachelor in Cultural Production, Fluminense Federal University, Niteroi, Brazil.</br>She has participated in various cultural projects in Brazil and Argentina.</br>At present she is working both as an online Portuguese teacher instructor and audiovisual translator in English, Spanish and Portuguese. and is the proud co-founder of Eco Ar, a business offering that offers sustainable solutions for events."
+                },
+                {
+                    "nombre": "MARINA PIERETTI LÓPEZ",
+                    "cargo": "REGIONAL PROMOTION",
+                    "trayectoria": "Marina Pieretti López is a graduate teacher and translator from ISP Nº 3 ‘“Eduardo Lafferriere’”, Villa Constitución, Santa Fe, Argentina. She is also a graduate Systems Programmer from ISP Nº 9112 ‘“San Pablo’.</br>She has worked as English language teacher at English institutes in her hometown and she has been coaching students of the Ttranslation Program of ISP Nº 3 “Eduardo Lafferriere” for more than eight years. She has performed English to English and Spanish to Spanish transcription services of audio to text files. She has attended several presential on-site and on lineon-line seminars, workshops and courses related to the translation field as well as the English and Spanish languages and she is currently attending lessons on Portuguese.</br>She is a freelance translator. Her specialties are Technical English, Mechanics, Metallurgy and Human Resources. In April, 2010, after attending her first workshop at Connections Servicios Idiomáticos, she joined Connections our company as Regional Promoter of the events organized by Connections because she truly believes that professional development enhances both the professional and personal lives of those who embrace it.</br>At present she is liaised with regional companies and coordinates English and Portuguese trainers in agribusiness programs."
+                },
+                {
+                    "nombre": "DIEGO GALLO",
+                    "cargo": "AUDIOVISUAL DEPARTMENT</br>PROJECT MANAGER",
+                    "trayectoria": "English-Spanish translator, he graduated in 2008 and started his career the following year as a translator for audiovisual contents the following year. He has developed as a subtitler for companies in Europe, in the United States and in Canada, providing them with countless products for major television networks and web-based platforms.</br>Four years agoTwoAlgunos años más tarde years later, he added dubbing and Closed Captioning to his subtitling tasks, along with QA control for those products.</br>He works as Economics & Finance Project Manager for Connections.</br>He is in constant training on audiovisual translation tools, as well as in English and Spanish.</br>He enjoys going to the movies, practicing sports and spending time with his pets."
+                },
+                {
+                    "nombre": "LÚCIA DORNELAS",
+                    "cargo": "PORTUGUESE",
+                    "trayectoria": "Lúcia was born in Brazil and lived there until 1983. A year later, she moved to Rosario. She is a teacher, and holds Litentiate degrees in Mathematics, Pedagogy and Portuguese teaching, among others.</br>She speaks English and sign language."
+                },
+                {
+                    "nombre": "GRACIELA CUELLO",
+                    "cargo": "DIRECTOR",
+                    "trayectoria": "Graciela is sole owner and founder of Connections Servicios Idiomáticos. She holds a degree in English-Spanish interpreting, translation and teaching, all of them awarded by IES – Instituto Olga Cossettini, Rosario. The work possibilities in the audiovisual translation area and in corporate training, as well as the growing demand from customers made her decide to set up her own translation studio in 1996.</br>In 2004 she is summoned to join MainPost, a subtitling company based in Miami at that time, and as a result of the solid business and human relationship between the two companies, both directors start a joint venture that remains to date.</br>At present she develops Argentine audiovisual products such as motion pictures and TV series for export. She is in charge ofoversees the quality assurance department for dubbing and subtitling services. She trains junior staff in Standard Modern Source Spanish and accessibility for Closed Captioning projects.</br>She is a constant travellertraveler and adores reading and watching movies."
+                    
+                    
+                }
+            ],
+            "relacInter": {
+                "titulo": "INTERNATIONAL RELATIONS DEPARTMENT",
+                "subtitulo": "Connections also hasWe have a special department to build liaison strategies with ourits international clients",
+                "parrafo": "Through the years our company it has gained a position in the domestic market; moreover, the export demand for translation services has shown a rapid growth in the last years. Connections isWe are currently engaged in projects overseas with clients mainly from the United States, France and Latin America, namely in English, Spanish, French and Portuguese.",
+                "parrafo2": "Therefore, it became necessary to develop a specific area for international relations to attend not only to the company growth and demand for services but also to clients’ needs overseas. Some of the activities carried out are: identification of potential markets, client outreach, promotion of services, relation with clients and personalized attention, and follow-up of international projects, among others. We join at least two international fairs per year, namely MIPCOM Cannes, Languages & the Media, Berlin, L.A. Screenings and the Frankfurt Book Fair."
+            },
+            "footer": {
+                "menu": [
+                    "HOME",
+                    "ABOUT US",
+                    {
+                        "SERVICIOS": [
+                            "SERVICES",
+                            "AUDIOVISUAL",
+                            "OTHER SERVICES"
+                        ]
+                    },
+                    "CONTACT US"
+                ],
+                
+                "rubros":[
+                    "Audiovisual",
+                    "Specialized Translation",
+                    "Language Audit",
+                    "Interpreting"
+                    
+                ],
+                "copyright": "All Rights Reserved",
+                "telefono": "+54-341-4497115"
+            }
+        },
+        
+        
+        
+        "nosotros": {
+            "titulo": "About Us",
+            "subTitulo": "Born in 1997, our studio came to life with a purpose: to connect and liaise with the audiovisual client. We provide subtitling and closed captioning, video description, transcription and live captioning among other post-production and media language services.</br>We believe in constant learning and offer in-house training and online training courses on audiovisual translation, Standard Spanish (español neutro) and LATAM, spelling and style.</br>",
+            "parrafo1": "<b><i>We care.</i></b></br></br>We work in production hand in hand with film directors on accessible filmmaking and accessibility.</br></br><b><i>We are creative.</i></b></br></br>Numerous advertising agencies account for that.We translate brand names and advertising campaigns, and assure that their products are seen globally. Our services vary from translations and subtitles for touring orchestras to trade shows and educational courses.",
+            "parrafo2": "<b><i>We embrace challenge.<i></b></br></br>Our different teams strive for consistency throughout seasons and series, are familiar with the latest trends in technology and state-of-the-art equipment, and pursue knowledge to work in production and post-production with filmmakers.</br></br><b><i>We are audio-visual.</i></b></br></br>We subtitle, translate, caption and interpret to help you go global."
+        },
+        "servicios": {
+            "audiovisuales": {
+                "titulo": "Audio-visual",             
+                "secciones": [
+                    {
+                        "subtitulo": "Subtitling and Closed Captioning",
+                        "rubros":[
+                            "Feature films",
+                            "Soap operas",
+                            "Spots",
+                            "Documentaries",
+                            "Short films"
+                        ],
+                        "parrafo": "Subtitling is a complex process which entails:</br></br>-Material analysis and preparation for the subtitle insertion.</br>-Text translation, taking into account what is written on the film script and what is shown on the screen.</br>-Subtitle editing, to check they are linguistically correct and fit into the limited space and time required to display the captions.</br>-A thorough review to ensure that the subtitle is in perfect synch with the image, so that the subtitle is displayed in the exact moment and during the exact time.</br></br>In the case of SPS, analysis and adaptation of the audiovisual contents are necessary to make them suitable for their screening on movie theatres, festivals, public or private TV stations, and for the deaf and hard of hearing people.</br></br>The closed captioning technique also includes the description of sound effects, tones of voices or ways of speaking.</br>"
+                    },
+                    {
+                        "subtitulo": "Translation and Transcription",
+                        "rubros":[
+                            "Script adaptation and localization",
+                            "Localización y adaptación de guiones",
+                            "Speech-to-text transcription",
+                            "Text-to-speech conversion",
+                            "Live and offline closed captioning",
+                            "Translation for global branding",
+                            "Foley"
+                        ],
+                        "parrafo": "We translate movie scripts for dubbing with lip-synch and temporal-synch, synopses, trailers and diverse audio-visual material, such as theater programs and publicity contents.</br></br>We also produce subtitles directly from audio. The quality of our transcriptions can be seen in soap operas, feature films and documentaries for TV networks such as Televisa, Caracol, Universal and NBC, to name a few, in Spanish, Portuguese and English.</br></br>We offer other services like adaptation of all kind of audio or video documents, such as speeches, conferences, debates, interviews, or training sessions, into a written document.</br>"
+                    },
+                    {
+                        "subtitulo": "Education",
+                        "rubros":[
+                            "Online courses",
+                            "Online training on subtitling software",
+                            "Captioned educational videos"
+                        ],
+                        "parrafo": "We translate and subtitle online courses of numerous educational institutions. We enable hearing-impaired people to attend conferences and university courses using state-of-the-art linguistic transcription software.</br></br>We offer translators training courses in subtitling software both on-site or online.</br></br>We have a virtual classroom for English training of the most renowned companies of the country.</br>"
+                    },
+                    {
+                        "subtitulo": "Media Accessibility",
+                        "rubros":[
+                            "Live captioning",
+                            "Subtitles for the Deaf-and-Hard-of-Hearing",
+                            "Script adaptation"
+                            
+                        ],
+                        "parrafo": "We produce subtitles for the hearing-impaired (SPS) for film and television.</br></br>We firmly believe that <b>Universal Accessibility</b> and <b>Design for All</b> are synonymous with equality of opportunities.</br></br>In the pre-production stages we adapt the scripts for the hearing-impaired and we make a collaborative effort among directors and translators to ensure that the result is satisfactory in terms of size, readability and font colour.</br>"
+                    },
+                    {
+                        "subtitulo": "Agribusiness",
+                        "rubros":[
+                            "Interpreting in agricultural fairs",
+                            "Translation of documentation",
+                            "Subtitling and dubbing of corporate videos"
+                        ],
+                        "parrafo": "We are present in various areas of agribusiness with our interpreting services (simultaneous or consecutive) and subtitling and dubbing of corporate and institutional videos.</br></br>We are audio-visual. With us you will be able to show your business to the world.</br>"
+                    }
+                ]
+                
+                
+            },
+
+            "otros": {
+                "titulo": "Other services",             
+                "secciones": [
+                    {
+                        "subtitulo": "Specialized Translation",
+                        "rubros":[
+                            "Legal",
+                            "Economics & Finance",
+                            "International Politics",
+                            "Industry",
+                            "Agribusiness",
+                            "Mechanics & Machinery",
+                            "Sustainable energies"
+                            
+                        ],
+                        "parrafo": "<b>Legal translation</b></br></br>We translate contracts and documentation for numerous Fortune 500 companies. A team of legal and financial experts in our translation team offer their expertise in cases of international litigation cases.</br></br>FOUNDCHILD - United Children for the World Foundation</br>Translation of documents concerning international child abduction</br></br>Margariti, Riol y Asociados</br>MM&G abogados</br>CPM Argentina</br>Translation of legal and financial documentation on mergers and acquisitions</br></br>VEX ARGENTINA</br>Louis Dreyfus Company</br>Discidium Technologies</br>Translation of legal and financial contracts</br></br<b>>Economics and Finance</b></br></br>We utilize state-of-the-art technology and tools and updated glossaries to render accurate and reliable results. We translate annual reports and balance sheets for leading companies in Argentina.</br></br>Standard & Poor’s</br>Industrias Juan F. Secco S.A.</br>Translation of financial statements and annual reports</br></br>Aguas Provinciales de Santa Fe, Argentina</br>Translation of annual reports for the World Bank and IFC (International Finance Corporation)</br></br>Hillsborough County, Florida, U.S.A.</br>Voting procedures for the state of Florida. Proofreading and editing of information for voters and all data regarding political parties and candidates for presidential preference primary elections.</br></br><b>Industry</b></br></br>Translation of documents and procedure manuals on the following fields:</br></br>-Agriculture</br>-Agribusiness</br>-Mechanics</br>-Soybean processing</br>-Machinery</br>-Sustainable energies</br></br>Crown Iron Works Company, MN, U.S.A.</br>Curran International, TX, U.S.A.</br>Sudamérica Impresos</br>Válvulas Hoffman</br>Translation of technical manuals</br></br>Sisgra S.R.L.</br>Translation of Website and agribusiness products</br></br>Abelardo Cuffia S.A.</br>Translation of manuals on seed and fertilization monitors</br></br>Industrias D’Ascanio S.R.L.</br>Translation of advertising material for trade shows and exhibitions</br></br>Wiseros</br>Translation services on renewable energy material for Taller Ecologista</br>"
+                    },
+                    {
+                        "subtitulo": "Language Audit Services",
+                        "rubros":[
+                            "Companies",
+                            "Institutions",
+                            "Organizations"
+                            
+                        ],
+                        "parrafo": "Linguistic auditing is of the utmost importance when it comes to recruiting staff and as a tool to develop an appropriate training plan.</br></br>Each of the competences (reading, speaking, listening and writing) is evaluated in the target language.</br></br>The participants are assessed on their knowledge of the target language, on their abilities to address communicative situations and on the linguistic skills required for the work position.</br></br><b>Benefits</b></br></br>The assessment is based on simple, clear and easy to measure parameters, defined according to the company’s needs.</br></br>Reports are elaborated by taking these parameters into account.</br></br>We help companies detect people’s weaknesses and strengths as part of the recruitment and assessment process.</br></br><b>How we work</b></br></br>1-We use simple, clear and accurate parameters to assess the candidates’ suitability for the work position, such as:</br></br>Proficiency level of the participant;</br>Learning style and multiple intelligences shown by the participant;</br>Goals;</br>Grammatical contents.</br></br>2-Attendance monitoring. Permanent communication among the company, the student and our firm.</br></br>3-Students are active participants in their learning processes.</br></br>The program is adapted to each student’s learning pace and not the other way around.</br></br>Timetables and lessons frequency are established according to the company’s needs and to the student’s real possibilities.</br></br>4-Satisfaction polls are used to determine the effectiveness of the programs.</br></br>5-Customized programs</br>The material used is constantly checked and reviewed in order to adjust contents and assessment.</br></br><b>English and Portuguese training courses for companies</b></br></br>We offer general and specific English courses with the choice of taking international language examinations.</br></br>Our staff rely on their solid academic background and experience with teaching platforms and on-site teaching.</br></br>For the last several years and endorsed by our solid knowledge in Human Resources, we provide linguistic audit and language training to the most renowned companies in the country.</br>",
+                        "empresas":[
+                            "Pecom Agra, Argentina",
+                            "Fric Rot S.A.I.C. Walker",
+                            "Coca-Cola - Rosario (servicio tercerizado de SET Idiomas)",
+                            "LDC Argentina",
+                            "Semillas Santa Rosa",
+                            "Net Consult S.R.L.",
+                            "Juvenal Maderas"
+                                                 
+                        ]
+                    },
+                    {
+                        "subtitulo": "Interpreting",
+                        "rubros":[
+                            "Business networking meetings",
+                            "Trade Shows & Exhibits",
+                            "Conferences",
+                            "Courses"
+                            
+                        ],
+                        "parrafo": "<b>Modalities</b></br></br>We offer simultaneous and consecutive interpreting services.</br></br>In consecutive interpreting, the interpreter takes notes as the speaker’s speech progresses (in the source language). When the speaker comes to a pause, the interpreter renders the message in the target language.</br></br>In simultaneous interpreting, the interpreter renders an oral translation while the source-language speaker continuously speaks. In this modality, the interpreter is usually sitting in an interpreting booth or, if the audience is small, the interpreter is in close proximity to the speaker and to the audience in order to whisper the message to them.</br></br><b>Experience</b></br></br>Our interpreters hold international certifications and experience in formal events. We have a local team and also a group of professionals available to work abroad.</br></br>-Business rounds and business networking meetings</br></br>-Trade fairs and exhibitions</br></br>-Conferences and lectures</br></br>-Courses</br></br>-Visits to manufacturing plants</br></br>-Tourism</br></br>-Wedding ceremonies</br></br>Koobet</br>Visits to manufacturing plants and business rounds with Ms. Peggy Kerr, Economic Development Department of Iowa, United States.</br></br>Crown Iron Works CompanyFrimetal</br>Frimetal</br>Molinos Río de la Plata</br>Advanta</br>Shorton Argentina</br>Interpreting services for project engineers for industrial plants in Argentina.</br></br>UNESCO Forum, Christer Lidzélius; Director of KaosPilot International. Consecutive interpreting services.</br></br>FULBRIGHT Institute Seminar, lecturer: Randall Bennett Woods, Ph.D. “The U.S.A. at present”. Simultaneous interpreting services.</br></br>FEDERACIÓN AGRARIA ARGENTINA Conference delivered by Aveve and Boerenbond Groups delegations. Consecutive interpreting services.</br></br>Superbilliards Expo, Philadelphia, U.S.A. Business networking meetings.</br></br>Book presentation. Best-selling author Wilbur Smith, presenting The Quest. Simultaneous and consecutive interpreting services.</br></br>Business networking meetings and visits to the Rosario Board of Trade, AAPRESID and ACSOJA.</br></br>Business networking meetings. Indian delegation led by Mr. B. V. Mehta, CEO of The Solvent Extractors’ Association of India.</br></br>Seminars on Financing and Mortgage. Lecturer: Professor Sidney Rosenberg, University of Florida. Held at Universidad Austral. Simultaneous interpreter.</br></br>Seminar on Global Economy and Culture. Lecturer: PhD Gordana Pesakovic, Universidad Austral. Simultaneous interpreting services.</br></br>Opening ceremony at Vicentín biodiesel plant. Simultaneous interpreting services.</br></br>Consecutive interpreting services at wood fiber panel plant, Villa Guillermina.</br></br>Lecture on The Communist Manifesto. Lecturer: Professor Werner Bonefeld, Unnoba, Pergamino. Consecutive interpreting services.</br></br>Seminar on Farm Bill. Lecturer: Professor Allan Gray, Universidad Austral. Simultaneous interpreting services.</br></br>First International Congress of Optometry. Simultaneous and consecutive interpreting services.</br></br>Lecture on “SymbioCity and Sustainable Transport”. Lecturer: Dr. Hans G. Lundberg, hosted by the Sweden Embassy to Argentina and Facultad de Ciencias Exactas, Ingeniería y Agrimensura. Consecutive interpreting services.</br></br>Immaculée Iligabiza, interpreters Francesca Calvo Di Marco y María Célica Tripicchio. Presentation of “Left to Tell” and “Led by Faith”. Logos Publishing Company.</br></br>David Brazier – counseling</br></br>Conference on Medical Clinic Metabolomics, Dr. Elaine Holmes. Simultaneous interpretation, Rostower hotel.</br></br>Juvenal Maderas"
+                        
+                        
+                    }
+                    
+                ]
+                
+                
+            },
+            "contacto": {
+                "titulo": "Contact Information",
+                "subtitulo": "Contact Us",
+                "subtitulo2": "",
+                "mailNombre": "Name",
+                "mailDireccion": "Email address",
+                "telefono": "Phone number",
+                "mailMsje": "Comments/Query",
+                "botonEnviar": "Send"
+                
+            }
+            
+
+            
+        }
+
+    }
+

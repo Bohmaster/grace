@@ -1,0 +1,300 @@
+{
+    "home": {
+        "header": {
+            "menu": [
+                "INICIO",
+                "NOSOTROS",
+                {
+                    "SERVICIOS": [
+                        "SERVICIOS",
+                        "AUDIOVISUALES",
+                        "OTROS"
+                    ]
+                },
+                "CONTACTO"
+            ],
+            "slider": {
+                "slider1": {
+                    "titulo": "Servicios audiovisuales",
+                    "subt": "Subtitulado",
+                    "rubros": [
+                        "Películas",
+                        "Telenovelas",
+                        "Spots publicitarios",
+                        "Documentales",
+                        "Cortos"
+                    ]
+                },
+                "slider2": {
+                    "titulo": "Servicios audiovisuales",
+                    "subt": "Traducción y transcripción",
+                    "rubros": [
+                        "Traducción de guiones",
+                        "Localización y adaptación de guiones",
+                        "Transcripción de audio a texto",
+                        "Conversión de texto a audio",
+                        "Subtítulos cerrados en vivo y diferido",
+                        "Traducción de marcas",
+                        "Foley"
+                    ]
+                },
+                "slider3": {
+                    "titulo": "Servicios audiovisuales",
+                    "subt": "Educación",
+                    "rubros": [
+                        "Cursos en línea",
+                        "Capacitación de software de subtitulado en línea",
+                        "Subtitulado de videos educativos"
+                    ]
+                },
+                "slider4": {
+                    "titulo": "Servicios audiovisuales",
+                    "subt": "Accesibilidad",
+                    "rubros": [
+                        "Subtitulado en vivo",
+                        "Subtitulado para sordos",
+                        "Adaptación de guiones"
+                    ]
+                },
+                "slider5": {
+                    "titulo": "Servicios audiovisuales",
+                    "subt": "Agronegocios",
+                    "rubros": [
+                        "Interpretación en ferias y rondas de negocios",
+                        "Traducción de documentación",
+                        "Subtitulado y doblaje de videos corporativos"
+                    ]
+                },
+                "otrosServicios": {
+                    "titulo": "OTROS SERVICIOS",
+                    "subt": "NUESTRA FILOSOFÍA ES APRENDER Y CAPACITAR PARA CRECER JUNTO CON EL CLIENTE",
+                    "servicios": [
+                        {
+                            "titulo": "Traducción especializada",
+                            "rubros": [
+                                
+                                        "Jurídica",
+                                        "Economía y finanzas",
+                                        "Política internacional",
+                                        "Industria",
+                                        "Agronegocios",
+                                        "Mecánica y maquinarias",
+                                        "Energías sustentables"
+                                    
+                                
+                            ]
+                        },
+                        {
+                            "titulo": "Auditoría lingüística",
+                            "rubros": [
+                                
+                                        "Empresas",
+                                        "Instituciones",
+                                        "Organismos"
+                            
+                                
+                            ]
+                        },
+                        {
+                            "titulo": "Interpretación",
+                            "rubros": [
+                                
+                                        "Rondas de negocios",
+                                        "Ferias y exposiciones",
+                                        "Conferencias",
+                                        "Cursos"
+                                    
+                                
+                            ]
+                        }
+                    ]
+                }
+            }
+        },
+        "SobreNosotros": {
+            "titulo": "SOBRE NOSOTROS",
+            "subTitulo": "SOMOS UNA EMPRESA AUDIOVISUAL. NUESTROS SERVICIOS DE TRADUCCIÓN, SUBTITULADO E INTERPRETACIÓN SERÁN SU CONEXIÓN INTERNACIONAL.",
+            "parrafo": "Nuestra empresa nació en 1997 con un fin lingüístico: conectarnos con el cliente audiovisual a través de nuestros servicios.</br>Ofrecemos servicios de traducción, subtitulado, subtitulado oculto y otros servicios audiovisuales.",
+            "parrafo2": "Nuestra filosofía es aprender y capacitar para crecer junto con el cliente. Brindamos capacitación <i>in-house</i> y cursos en línea en español neutro, LATAM y traducción audiovisual."
+        },
+        "integrantes": [
+            {
+                "nombre": "DIEGO MAININI",
+                "cargo": "DIRECTOR DE ÁREA TÉCNICA AUDIOVISUAL",
+                "trayectoria": "A cargo del área logística y de la gestión de proyectos audiovisuales y supervisión de producción y control de calidad.</br>Desde 2000 trabaja como editor de títulos y subtítulos cerrados para sordos. En los últimos años ha capacitado a traductores noveles en subtitulado y estudiantes de la carrera de traducción.</br>Sus trabajos pueden verse en cadenas internacionales como Netflix, Fox, HBO, y Universal."
+            },
+            {
+                "nombre": "DANIELE MARTINS MONGE",
+                "cargo": "TRADUCCIÓN AUDIOVISUAL EN PORTUGUÉS",
+                "trayectoria": "Magíster en Integración y Cooperación Internacional por la Universidad Nacional de Rosario - Argentina, gracias a la beca otorgada por la Organización de Estados Americanos - OEA y Licenciada en Producción Cultural por la Universidad Federal Fluminense, en Niterói - Brasil. Se ha desarrollado profesionalmente realizando proyectos culturales en Brasil y Argentina. Actualmente se desempeña como profesora de portugués en línea, transcriptora y traductora audiosvisual en inglés, español y portugués."
+            },
+            {
+                "nombre": "MARINA PIERETTI LÓPEZ",
+                "cargo": "PROMOCIÓN REGIONAL",
+                "trayectoria": "Marina Pieretti López es profesora de inglés y traductora en inglés graduada del ISP Nº 3 “Eduardo Lafferriere”, Villa Constitución, Santa Fe, Argentina. También es programadora en sistemas graduada del ISP Nº 9112 “San Pablo”. Marina trabajó como profesora en institutos de inglés de su ciudad y ha entrenado a alumnos de la carrera de traductorado ISP Nº 3 “Eduardo Lafferriere” por más de ocho años. Ha realizado servicios de transcripciones en inglés y español de archivos de audio a texto. Ha asistido a distintos seminarios, cursos y talleres, presenciales y on line, relacionados con el campo de la traducción y de los idiomas inglés y español, y actualmente se encuentra tomando clases de portugués. Es traductora independiente especializada en Inglés técnico, mecánica, metalurgia y Recursos Humanos. En abril de 2010, luego de asistir a su primer taller en Connections Servicios Idiomáticos, se unió al equipo como Promotora Regional de los eventos organizados por Connections, ya que realmente cree que el desarrollo profesional enriquece tanto la vida profesional como la personal de quienes lo practican. Desde este año coordina la capacitación en empresas de la región y el staff de profesores de inglés y portugués en programas de agronegocios."
+            },
+            {
+                "nombre": "DIEGO GALLO",
+                "cargo": "DEPARTAMENTO AUDIOVISUAL</br>GERENTE DE PROYECTOS",
+                "trayectoria": "Traductor egresado en 2008, comenzó su experiencia audiovisual en Connections al año siguiente.</br>Se ha desarrollado como subtitulador para empresas europeas y norteamericanas, proporcionando innumerable cantidad de productos para cadenas de televisión y plataformas de internet.</br>Hace cuatro años sumó a sus tareas de subtitulado las de doblaje y <i>Closed Captioning</i>, además de control de calidad para esos productos.</br>Se desempeña como Gerente de Proyectos para Connections en el área de finanzas y economía.</br>Se capacita constantemente en herramientas de traducción audiovisual y traducción general, así como también en lo que respecta a la lengua inglesa y española.</br>Disfruta del cine, del deporte y de sus mascotas."
+            },
+            {
+                "nombre": "LÚCIA DORNELAS",
+                "cargo": "DEPARTAMENTO DE PORTUGUÉS",
+                "trayectoria": "Nació en Brasil y vivió allí hasta el año 1983. Al año siguiente se radicó en la ciudad de Rosario.</br>Maestra, Licenciada en Matemáticas, Licenciada en Pedagogía y profesora de portugués son algunos de sus títulos académicos.</br>También posee conocimientos de inglés y de Lengua de Señas."
+            },
+            {
+                "nombre": "GRACIELA CUELLO",
+                "cargo": "DIRECCIÓN GENERAL",
+                "trayectoria": "Intérprete, traductora en inglés y profesora de inglés, títulos obtenidos en el Instituto Olga Cossettini, Rosario. Un trabajo intenso en el área audiovisual la llevó en 1996 a crear su propia empresa de traducciones. En el 2004 es convocada para trabajar en traducción audiovisual para subtitulado. Comienza una relación laboral con la empresa de subtitulado MainPost, con oficinas en Miami en ese momento, y como resultado de esa sólida relación laboral y humana ambas empresas crean una sociedad estratégica que continúa hasta hoy. Actualmente está dedicada al desarrollo de productos audiovisuales de Argentina para el mundo para cadenas televisivas y cine. Dirige los equipos de control de calidad en doblaje y subtitulado. Es capacitadora en español neutro para empresas de <i>Closed Captioning</i> y en traducción accesible para estudiantes de traducción.Adora los viajes, la lectura y el cine."
+            }
+        ],
+        "relacInter": {
+            "titulo": "ÁREA DE RELACIONES INTERNACIONALES",
+            "subtitulo": "En Connections también contamos con un departamento especializado para el relacionamiento con sus clientes internacionales.",
+            "parrafo": "Nuestra empresa se ha posicionado en el mercado interno debido a la creciente demanda de exportación de servicios de traducción en los últimos años. Actualmente participamos en proyectos internacionales especialmente con clientes de los Estados Unidos, Francia y América Latina. Un área específica para las relaciones internacionales gestiona eficientemente las demandas generadas por el crecimiento de la empresa, como también las necesidades de nuestros clientes del exterior.",
+            "parrafo2": "Entre las actividades del área están: identificación de potenciales mercados, captación de nuevos clientes, divulgación de nuestros servicios, relacionamiento con los clientes y atención personalizada, además de seguimiento de proyectos internacionales, entre otras acciones. Participamos en dos ferias internacionales al año como MIPCOM, Cannes, Languages & the Media, Berlín, L.A. Screenings y la Feria del Libro de Frankfurt."
+        },
+        "footer": {
+            "menu": [
+                "INICIO",
+                "NOSOTROS",
+                {
+                    "SERVICIOS": [
+                        "AUDIOVISUALES",
+                        "OTROS"
+                    ]
+                },
+                "CONTACTO"
+            ],
+            "rubros": [
+                "Servicios audiovisuales",
+                "Traducción especializada",
+                "Auditoría lingüística",
+                "Interpretación"
+            ],
+            "copyright": "Derechos reservados",
+            "telefono": "+54-341-4497115"
+        }
+    },
+    "nosotros": {
+        "titulo": "Nosotros",
+        "subTitulo": "Nuestra empresa nació en 1997 con un fin lingüístico: conectarnos con el cliente audiovisual a través de nuestros servicios. Ofrecemos servicios de traducción, subtitulado, subtitulado oculto y otros servicios audiovisuales.</br>Nuestra filosofía es aprender y capacitar para crecer junto con el cliente. Brindamos capacitación <i>in-house</i> y cursos en línea en español neutro, LATAM y traducción audiovisual.</br></br>",
+        "parrafo1": "<b><i>Nos involucramos</i></b></br></br>Participamos en la etapa de producción con cineastas en la preparación de subtítulos accesibles.</br></br><b><i>Somos creativos</i></b></br></br>Las agencias de publicidad que nos confían sus productos lo saben. Traducimos marcas registradas, campañas publicitarias y localizamos sus productos para que salgan al mundo. Nuestros servicios también pueden verse en diferentes ámbitos y para diversos fines, desde orquestas sinfónicas, ferias comerciales a cursos educativos.",
+        "parrafo2": "<b><i>Asumimos el desafío</i></b></br></br>Con equipos sólidos y una pasión común y la mejor tecnología, nos enfocamos en la calidad de nuestros subtítulos en temporadas televisivas y series, y en una estrecha relación con realizadores cinematográficos en producción y posproducción audiovisual.</br></br><b><i>Somos audio-visuales</i></b></br></br>Nuestros servicios de traducción, subtitulado e interpretación serán su conexión internacional."
+    },
+    "servicios": {
+        "audiovisuales": {
+            "titulo": "Servicios audiovisuales",
+            "secciones": [
+                {
+                    "subtitulo": "Subtitulado y SPS",
+                    "rubros": [
+                        "Películas",
+                        "Telenovelas",
+                        "Spots publicitarios",
+                        "Documentales",
+                        "Cortos"
+                    ],
+                    "parrafo": "El subtitulado es un proceso minucioso que comprende:</br></br>·  El análisis del material y la preparación para la inserción de subtítulos.</br>·  La traducción del texto sobre el guion y la imagen.</br>·  El empleo de opciones lingüísticas accesibles para los espectadores de todas las regiones donde se proyectará la película.</br>·  La edición de los subtítulos de modo que sean lingüísticamente correctos y respeten las restricciones de espacio y tiempo que impone la proyección en pantalla.</br>·  Una exhaustiva revisión final de la sincronización de subtítulo e imagen.</br></br>En SPS, son necesarios el análisis y la adaptación de los contenidos audiovisuales para hacerlos accesibles en salas de cine, festivales, televisión pública y privada, DVD, y para personas con dificultades de audición y con capacidades diferentes.</br></br>La técnica de SPS involucra también descripciones de efectos de sonido, el tono de la voz o la manera de hablar."
+                },
+                {
+                    "subtitulo": "Traducción y transcripción",
+                    "rubros": [
+                        "Traducción de guiones",
+                        "Localización y adaptación de guiones",
+                        "Transcripción de audio a texto",
+                        "Conversión de texto a audio",
+                        "Subtítulos cerrados en vivo y en diferido",
+                        "Traducción de marcas",
+                        "Foley"
+                    ],
+                    "parrafo": "Traducimos guiones de cine y para doblaje con ajustes de sincronía labial y temporal, sinopsis, tráileres y material audiovisual diverso como programas de funciones teatrales o giras artísticas, y material publicitario.</br></br>También subtitulamos directamente de audio a texto. La calidad de nuestras transcripciones puede verse en telenovelas, películas y documentales de las cadenas Televisa, Caracol, Universal y NBC, entre otros, en los idiomas español, portugués e inglés.</br></br>Otros servicios incluyen la conversión en texto escrito de cualquier tipo de documento de audio o video, como discursos, conferencias, debates, entrevistas y sesiones de capacitación."
+                },
+                {
+                    "subtitulo": "Educación",
+                    "rubros": [
+                        "Cursos en línea",
+                        "Capacitación de software de subtitulado en línea",
+                        "Subtítulado de vídeos educativos"
+                    ],
+                    "parrafo": "Traducimos y subtitulamos cursos en línea de numerosas instituciones educativas. Somos un vínculo para que personas con discapacidad auditiva puedan asistir a conferencias y cursos universitarios a través de software de transcripción lingüística de última generación.</br></br>Ofrecemos capacitación en software de subtitulado en la modalidad presencial y a distancia a traductores.</br></br>Contamos con un aula virtual para la capacitación en inglés de las más renombradas empresas del país."
+                },
+                {
+                    "subtitulo": "Accesibilidad",
+                    "rubros": [
+                        "Subtitulado en vivo",
+                        "Subtitulado para sordos",
+                        "Adaptación de guiones"
+                    ],
+                    "parrafo": "Realizamos subtítulos para sordos (<i>Closed Captioning</i>) para cine y televisión.</br></br>Creemos firmemente que la <b>Accesibilidad Universal</b> y el <b>Diseño para Todos</b> son sinónimos de igualdad de oportunidades.</br></br>En la etapa de preproducción realizamos la adaptación de guiones para personas con discapacidad auditiva, durante la realización de una película -a través de la colaboración entre los directores y los traductores- y en la etapa de posproducción atendiendo cuestiones como el tamaño, la legibilidad y el color de la tipografía."
+                },
+                {
+                    "subtitulo": "Agronegocios",
+                    "rubros": [
+                        "Interpretación en ferias y rondas de negocios",
+                        "Traducción de documentación",
+                        "Subtitulado y doblaje de videos corporativos"
+                    ],
+                    "parrafo": "Estamos presentes en diversas áreas de agronegocios a través de nuestros servicios de interpretación en la modalidad consecutiva y simultánea, y de subtitulado y doblaje de videos corporativos e institucionales.</br></br>Somos audio-visuales. Con nosotros usted podrá mostrar su negocio en todo el mundo."
+                }
+            ]
+        },
+        "otros": {
+            "titulo": "Otros servicios",
+            "secciones": [
+                {
+                    "subtitulo": "Traducción especializada",
+                    "rubros": [
+                        "Jurídica",
+                        "Economía y finanzas",
+                        "Política internacional",
+                        "Industria",
+                        "Agronegocios",
+                        "Mecánica y maquinarias",
+                        "Energías sustentables"
+                    ],
+                    "parrafo": "<b>Traducción jurídica</b></br></br>Brindamos servicios de traducción de contratos y documentos para numerosas empresas de la lista Fortune 500. Contamos con un equipo de abogados y financieros en el equipo de traducción quienes nos asesoran en cuestiones de litigio internacional.</br></br>FOUNDCHILD - Fundación Niños Unidos para el Mundo</br>Traducción de documentación en casos de restitución internacional de menores</br></br>Margariti, Riol y Asociados</br>MM&G abogados</br>CPM Argentina</br>Traducciones jurídicas de documentación, fusiones y adquisiciones de empresas</br></br>VEX ARGENTINA</br>Louis Dreyfus Company</br>Discidium Technologies</br>Traducción de documentación legal y financiera</br></br><b>Economía y finanzas</b></br></br>Contamos con óptimas herramientas de traducción y glosarios para brindar un producto final preciso y confiable. Realizamos traducción de informes contables para numerosas empresas internacionales.</br></br>Standard & Poor’s</br>Industrias Juan F. Secco S.A.</br>Traducción de memoria y balance de las principales compañías del país</br></br>Aguas Provinciales de Santa Fe, Argentina</br>Traducción de informe anual para el Banco Mundial e IFC (International Finance Corporation).</br></br>Hillsborough County, Florida, EE. UU.</br>Procedimientos electorales en el estado de Florida. Revisión y edición de información electoral para los votantes, y todo lo concerniente a partidos políticos y candidatos para las elecciones presidenciales.</br></br><b>Industria</b></br></br>Traducción de documentos y manuales en las siguientes áreas:</br></br>-Agricultura</br>-Agronegocios</br>-Mecánica</br>-Procesos de soja</br>-Maquinarias</br>-Energías sustentables</br></br>Crown Iron Works Company, MN, EE. UU.</br>Curran International, TX, EE. UU.</br>Sudamérica Impresos</br>Válvulas Hoffman</br>Traducción de manuales técnicos</br></br>Sisgra S.R.L.</br>Traducción de sitio Web y productos de agronegocios</br></br>Abelardo Cuffia S.A.</br>Traducción de monitores de siembra</br></br>Industrias D’Ascanio S.R.L.</br>Traducción de material para ferias y exposiciones</br></br>Wiseros</br>Traducción para Taller Ecologista sobre energías sustentables"
+                },
+                {
+                    "subtitulo": "Auditoría lingüística",
+                    "rubros": [
+                        "Empresas",
+                        "Instituciones",
+                        "Organismos"
+                    ],
+                    "parrafo": "La auditoría lingüística es un servicio imprescindible tanto como herramienta de evaluación ante un proceso de selección, como herramienta de evaluación para desarrollar un plan de capacitación en una lengua extranjera.</br></br>La auditoría se realiza en cada una de las competencias (capacidad de hablar, leer, escuchar y escribir) del idioma objeto de evaluación.</br></br>Se evalúan los conocimientos del participante, las destrezas lingüísticas necesarias para el desarrollo del puesto, y la capacidad de la persona para enfrentar situaciones de comunicación.</br></br><b>Beneficios</b></br></br>La instrumentación se basa en parámetros simples, claros y fácilmente medibles.</br></br>Se realizan informes con parámetros acordados con la compañía solicitante.</br></br>Le ayudamos a detectar las debilidades y fortalezas del participante como parte del proceso de selección y evaluación.</br></br><b>Nuestro proceso de trabajo</b></br></br>1-Parámetros de evaluación sencillos, claros y precisos que permiten conocer la operatividad laboral del participante mediante:</br></br>  El nivel de competencia lingüística del participante;</br>  El estilo de aprendizaje e inteligencias múltiples que el participante manifiesta;</br>  La descripción de objetivos;</br>  Los contenidos gramaticales.</br></br>2-Control de asistencia. Comunicación constante entre la compañía, el alumno y nosotros.</br></br>3-El participante es una figura activa en el aprendizaje.</br></br>El programa se adapta al ritmo de aprendizaje del alumno, no al revés.</br></br>El horario y la frecuencia de clases que necesita el alumno se fijan en función de la necesidad de la empresa y la posibilidad real del participante.</br></br>4-Encuestas de satisfacción. Permiten detectar si el programa se cumple exitosamente.</br></br>5-Ajustes</br>Se realizan permanentes registros y análisis del material utilizado. Estos permiten realizar ajustes en los contenidos y evaluación.</br></br><b>Capacitación en empresas de inglés y portugués</b></br></br>Ofrecemos cursos de inglés específico y general, con opción a rendir exámenes internacionales.</br></br>Nuestros profesores cuentan con sólida formación académica y experiencia en plataformas educativas y capacitación presencial.</br></br>Desde hace años y respaldados por sólidos conocimientos en búsqueda laboral y el área de Recursos Humanos, realizamos auditoría lingüística y capacitación en las principales empresas del país.</br>",
+                    "empresas": [
+                        "Pecom Agra, Argentina",
+                        "Fric Rot S.A.I.C. Walker",
+                        "Coca-Cola - Rosario (servicio tercerizado de SET Idiomas)",
+                        "LDC Argentina",
+                        "Semillas Santa Rosa",
+                        "Net Consult S.R.L.",
+                        "Juvenal Maderas"
+                    ]
+                },
+                {
+                    "subtitulo": "Interpretación",
+                    "rubros": [
+                        "Rondas de negocios",
+                        "Ferias y exposiciones",
+                        "Conferencias",
+                        "Cursos"
+                    ],
+                    "parrafo": "<b>Modalidades</b></br></br>Ofrecemos servicios de interpretación en la modalidad consecutiva y simultánea en ámbitos sociales, comerciales y académicos.</br></br>En la interpretación consecutiva, el intérprete toma notas mientras el orador pronuncia un discurso. Durante el discurso, el orador puede hacer pausas frecuentes para que el intérprete pueda reproducirlo en el idioma destino.</br></br>En la interpretación simultánea, el intérprete traduce oralmente (interpreta) inmediatamente el discurso del orador, usualmente en cabina, o bien mediante susurro.</br></br><b>Experiencia</b></br></br>Nuestros intérpretes cuentan con certificaciones internacionales y experiencia en eventos de protocolo y ceremonial. Contamos con un equipo local y también con profesionales dispuestos a prestar servicios en el exterior.</br></br>-Ronda de negocios</br></br>-Ferias y exposiciones comerciales</br></br>-Conferencias</br></br>-Cursos</br></br>-Visitas a plantas</br></br>-Turismo</br></br>-Bodas</br></br>Koobet</br>Visitas a planta y rondas de negocios con la Sra. Peggy Kerr, Departamento de Desarrollo Económico del estado de Iowa, EE. UU.</br></br>Crown Iron Works Company</br>Frimetal</br>Molinos Río de la Plata</br>Advanta</br>Shorton Argentina</br>Servicios de interpretación para los ingenieros de proyecto en plantas industriales de Argentina.</br></br>Foro de la UNESCO Conferencia en Rosario a cargo de Christer Lidzélius; Director de KaosPilot International. Modalidad: Interpretación consecutiva.</br></br>FULBRIGHT Institute Seminario Internacional a cargo del historiador Randall Bennett Woods, Ph.D. “Estados Unidos en el Mundo Actual”. Modalidad: Interpretación simultánea en cabina.</br></br>FEDERACIÓN AGRARIA ARGENTINA Conferencia a cargo de representantes de los Grupos Aveve y Boerenbond. Modalidad: consecutiva.</br></br>Superbilliards Expo, Filadelfia, EE. UU. Modalidad: ronda de negocios.</br></br>Presentación del libro best-seller de Wilbur Smith, The Quest.</br></br>Ronda de negocios y visitas a AAPRESID, Bolsa de Comercio de Rosario, ACSOJA.</br></br>Ronda de negocios. Sr. B. V. Mehta, Director Ejecutivo de The Solvent Extractors’ Association of India.</br></br>Seminarios sobre Finanzas e Hipotecas dictados por el Sr. Sidney Rosenberg, Profesor de la Universidad de Florida, Universidad Austral. Modalidad: simultánea.</br></br>Seminario sobre Economía global y cultura a cargo de la Dra. Gordana Pesakovic, Universidad Austral, Modalidad: simultánea.</br></br>Inauguración de planta de biodiesel en San Lorenzo. Modalidad simultánea.</br></br>Interpretación en planta de paneles de fibra de madera, Villa Guillermina. Modalidad: consecutiva.</br></br>Conferencia sobre el Manifiesto Comunista, a cargo del Profesor Werner Bonefeld, Unnoba, Pergamino. Modalidad: Consecutiva.</br></br>Seminario sobre Farm Bill, a cargo del Profesor Allan Gray, Universidad Austral. Modalidad: simultánea.</br></br>Primer y Segundo Congreso Internacional de Optometría. Modalidad: simultánea, consecutiva y mesas de trabajo.</br></br>Conferencia “SymbioCity y Transporte Urbano Sostenible”, a cargo del Dr. Hans G. Lundberg, organizada por la Embajada de Suecia y la Facultad de Ciencias Exactas, Ingeniería y Agrimensura. Modalidad: consecutiva, 3 horas reloj.</br></br>Immaculée Iligabiza, intérpretes Francesca Calvo Di Marco y María Célica Tripicchio. Presentación de su libro “Sobrevivir para contarlo” y “Guiada por la fe”, editorial Logos.</br></br>David Brazier – counseling</br></br>Conferencia Internacional sobre Metabolómica a cargo de la Dra. Elaine Holmes. Interpretación simultánea, hotel Rostower.</br></br>Juvenal maderas"
+                }
+            ]
+        },
+        "contacto": {
+            "titulo": "Contacto",
+            "subtitulo": "Contáctese con nosotros",
+            "subtitulo2": "Por favor, complete el siguiente formulario:",
+            "mailNombre": "Nombre",
+            "mailDireccion": "Correo electrónico",
+            "telefono": "Teléfono",
+            "mailMsje": "Comentario/Consulta",
+            "botonEnviar": "Enviar"
+        }
+    }
+}
